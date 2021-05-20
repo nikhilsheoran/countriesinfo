@@ -24,5 +24,5 @@ function tableFiller(arr) {
         link.rel = 'icon';
         document.getElementsByTagName('head')[0].appendChild(link);
     }
-    link.href = "/world-map.png";
+    link.href = "world-map.png";
 }
